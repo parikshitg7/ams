@@ -1,6 +1,12 @@
 package com.airline.management;
 
 import java.util.List;
+import com.airline.management.dao.BookingDAO;
+import com.airline.management.dao.FlightDAO;
+import com.airline.management.dao.PassengerDAO;
+import com.airline.management.model.Booking;
+import com.airline.management.model.Flight;
+import com.airline.management.model.Passenger;
 
 public class Main {
     public static void main(String[] args) {

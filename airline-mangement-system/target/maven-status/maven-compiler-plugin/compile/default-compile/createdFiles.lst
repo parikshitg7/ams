@@ -1,8 +1,8 @@
-com\airline\management\Flight.class
-com\airline\management\Booking.class
-com\airline\management\BookingDAO.class
-com\airline\management\Passenger.class
-com\airline\management\PassengerDAO.class
+com\airline\management\model\Flight.class
+com\airline\management\dao\DatabaseConnection.class
+com\airline\management\dao\PassengerDAO.class
+com\airline\management\model\Passenger.class
+com\airline\management\dao\FlightDAO.class
 com\airline\management\Main.class
-com\airline\management\FlightDAO.class
-com\airline\management\DatabaseConnection.class
+com\airline\management\model\Booking.class
+com\airline\management\dao\BookingDAO.class

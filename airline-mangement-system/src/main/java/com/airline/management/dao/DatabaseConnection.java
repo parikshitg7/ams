@@ -1,4 +1,4 @@
-package com.airline.management;
+package com.airline.management.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
